@@ -1,4 +1,4 @@
-## Under construction. More to come soon... :smiling_face_with_sunglasses:
+## Under construction. More to come soon... U+1F60E
 
 <!--
 **wolfram-menser/wolfram-menser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
