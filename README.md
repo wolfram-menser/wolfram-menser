@@ -21,7 +21,7 @@ Mehr zu meinem Werdegang und zur Motivation hinter dem Wissenshub: https://www.z
 
 ## Ausgewählte Repositories
 
-### ERP ↔ Blockchain Hub
+### ERP Blockchain Hub
 **Repo:** `wolfram-menser/erp-blockchain-hub` (TypeScript)
 
 Ein Hub/Prototyp im Kontext *ERP‑nahe Anwendungen und Blockchain‑Anbindung* – mit modernem Web‑Stack (u. a. Vite/Tailwind‑Setup im Repo).
